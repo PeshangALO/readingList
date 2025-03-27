@@ -80,7 +80,10 @@ document.addEventListener("DOMContentLoaded", () => {
   
             // Simplified innerHTML matching the CSS and original working script
             li.innerHTML = `
-                <a href="${site.url}" target="_blank" rel="noopener noreferrer">${site.name}</a>
+                <div class="site-item">
+                  <img src="https://www.google.com/s2/favicons?domain=${new URL(site.url).hostname}" alt="${site.name} Logo" class="site-logo" />
+                  <a href="${site.url}" target="_blank" rel="noopener noreferrer">${site.name}</a>
+                </div>
                 <div class="latest-post" id="latest-${siteId}">
                    <i class="fas fa-spinner fa-spin"></i> Loading latest post...
                 </div>
