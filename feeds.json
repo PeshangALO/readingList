@@ -1,0 +1,203 @@
+[
+    {
+      "category": "Company Engineering Blogs",
+      "sites": [
+        {
+          "name": "Netflix Tech Blog",
+          "url": "https://netflixtechblog.com/",
+          "feedUrl": "https://netflixtechblog.com/feed"
+        },
+        {
+          "name": "Airbnb Engineering & Data Science",
+          "url": "https://medium.com/airbnb-engineering",
+          "feedUrl": "https://medium.com/feed/airbnb-engineering"
+        },
+        {
+          "name": "Uber Engineering Blog",
+          "url": "https://eng.uber.com/",
+          "feedUrl": "https://eng.uber.com/feed/"
+        },
+        {
+          "name": "Spotify Engineering",
+          "url": "https://engineering.atspotify.com/",
+          "feedUrl": "https://engineering.atspotify.com/feed/"
+        },
+        {
+          "name": "Stripe Engineering Blog",
+          "url": "https://stripe.com/blog/engineering",
+          "feedUrl": "https://stripe.com/blog/feed.xml"
+        },
+        {
+          "name": "Shopify Engineering",
+          "url": "https://shopify.engineering/",
+          "feedUrl": "https://shopify.engineering/feed.xml"
+        },
+        {
+          "name": "Google AI Blog",
+          "url": "https://ai.googleblog.com/",
+          "feedUrl": "http://feeds.feedburner.com/blogspot/gJZg"
+        },
+        {
+          "name": "Google Research Blog",
+          "url": "https://research.googleblog.com/",
+          "feedUrl": "http://feeds.feedburner.com/googleresearch"
+        },
+        {
+          "name": "Meta AI Blog",
+          "url": "https://ai.facebook.com/blog/",
+          "feedUrl": "https://ai.facebook.com/blog/rss/"
+        },
+        {
+          "name": "LinkedIn Engineering",
+          "url": "https://engineering.linkedin.com/blog",
+          "feedUrl": "https://engineering.linkedin.com/blog.rss.html"
+        },
+        {
+          "name": "Pinterest Engineering",
+          "url": "https://medium.com/pinterest-engineering",
+          "feedUrl": "https://medium.com/feed/pinterest-engineering"
+        },
+        {
+          "name": "Dropbox Engineering Blog",
+          "url": "https://dropbox.tech/",
+          "feedUrl": "https://dropbox.tech/feed/"
+        }
+      ]
+    },
+    {
+      "category": "AI/ML Platforms & Tools",
+      "sites": [
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog",
+          "feedUrl": "https://huggingface.co/blog/feed.xml"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/blog/",
+          "feedUrl": "https://openai.com/blog/rss/"
+        },
+        {
+          "name": "Rasa Blog (Conversational AI)",
+          "url": "https://blog.rasa.com/",
+          "feedUrl": "https://blog.rasa.com/rss/"
+        },
+        {
+          "name": "Weights & Biases Blog (MLOps)",
+          "url": "https://wandb.ai/fully-connected",
+          "feedUrl": "https://wandb.ai/site/rss.xml"
+        },
+        {
+          "name": "TensorFlow Blog",
+          "url": "https://blog.tensorflow.org/",
+          "feedUrl": "https://blog.tensorflow.org/feeds/posts/default?alt=rss"
+        },
+        {
+          "name": "PyTorch Blog",
+          "url": "https://pytorch.org/blog/",
+          "feedUrl": "https://pytorch.org/blog/feed.xml"
+        }
+      ]
+    },
+    {
+      "category": "Cloud Provider AI/ML Blogs & Case Studies",
+      "sites": [
+        {
+          "name": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/",
+          "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/"
+        },
+        {
+          "name": "AWS Case Studies",
+          "url": "https://aws.amazon.com/solutions/case-studies/",
+          "feedUrl": null
+        },
+        {
+          "name": "Google Cloud AI/ML Blog",
+          "url": "https://cloud.google.com/blog/products/ai-machine-learning/",
+          "feedUrl": "https://cloud.google.com/blog/products/ai-machine-learning/rss"
+        },
+        {
+          "name": "Google Cloud Customers",
+          "url": "https://cloud.google.com/customers",
+          "feedUrl": null
+        },
+        {
+          "name": "Azure AI Blog",
+          "url": "https://azure.microsoft.com/en-us/blog/category/ai-machine-learning/",
+          "feedUrl": "https://azurecomcdn.azureedge.net/en-us/blog/category/ai-machine-learning/feed/"
+        },
+        {
+          "name": "Azure Customer Stories",
+          "url": "https://azure.microsoft.com/en-us/resources/customers/",
+          "feedUrl": null
+        }
+      ]
+    },
+    {
+      "category": "Aggregators & Communities",
+      "sites": [
+        {
+          "name": "Hacker News",
+          "url": "https://news.ycombinator.com/",
+          "feedUrl": "https://news.ycombinator.com/rss"
+        },
+        {
+          "name": "Medium - Towards Data Science",
+          "url": "https://towardsdatascience.com/",
+          "feedUrl": "https://towardsdatascience.com/feed"
+        },
+        {
+          "name": "Medium - General Tech Topics",
+          "url": "https://medium.com/topic/technology",
+          "feedUrl": "https://medium.com/feed/topic/technology"
+        },
+        {
+          "name": "Reddit - r/programming",
+          "url": "https://www.reddit.com/r/programming/",
+          "feedUrl": "https://www.reddit.com/r/programming/.rss"
+        },
+        {
+          "name": "Reddit - r/MachineLearning",
+          "url": "https://www.reddit.com/r/MachineLearning/",
+          "feedUrl": "https://www.reddit.com/r/MachineLearning/.rss"
+        },
+        {
+          "name": "Reddit - r/ExperiencedDevs",
+          "url": "https://www.reddit.com/r/ExperiencedDevs/",
+          "feedUrl": "https://www.reddit.com/r/ExperiencedDevs/.rss"
+        }
+      ]
+    },
+    {
+      "category": "Health Tech / Diabetes Tech Specific",
+      "sites": [
+        {
+          "name": "PubMed (Search Engine)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/",
+          "feedUrl": null
+        },
+        {
+          "name": "Google Scholar (Search Engine)",
+          "url": "https://scholar.google.com/",
+          "feedUrl": null
+        },
+        {
+          "name": "Fierce Biotech (News)",
+          "url": "https://www.fiercebiotech.com/",
+          "feedUrl": "https://www.fiercebiotech.com/rss/xml"
+        },
+        {
+          "name": "MobiHealthNews (News)",
+          "url": "https://www.mobihealthnews.com/",
+          "feedUrl": "https://www.mobihealthnews.com/feed"
+        },
+        {
+          "name": "FDA Digital Health Center of Excellence",
+          "url": "https://www.fda.gov/medical-devices/digital-health-center-excellence",
+          "feedUrl": null
+        }
+      ]
+    }
+  ]
+  
