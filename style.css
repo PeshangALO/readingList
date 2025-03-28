@@ -212,3 +212,12 @@ body {
   border-radius: 4px;
   object-fit: cover;
 }
+
+.latest-post img {
+  width: 100px; /* Set the desired width */
+  height: 100px; /* Set the desired height */
+  object-fit: cover; /* Ensures the image fits within the dimensions without distortion */
+  border-radius: 8px; /* Optional: Adds rounded corners */
+  margin-right: 10px; /* Optional: Adds spacing around the image */
+}
+
